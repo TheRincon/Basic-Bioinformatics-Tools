@@ -27,6 +27,7 @@ BUSCO <br>
 ## Phylogenetics
 
 ETE <br>
+CAFE <br>
 
 ## Alignment
 
@@ -34,10 +35,14 @@ DIAMOND <br>
 BLAT <br>
 BLAST <br>
 GHOSTX <br>
+MUSCLE <br>
+CLUSTAL <br>
+MAFFT <br>
 
 ## Metagenomics
 
 VSEARCH <br>
+OBITools <br>
 
 Very hesitant to include BLAST here, as it is universal at this point, but better (faster) options exist.
 
