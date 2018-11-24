@@ -7,6 +7,10 @@ Frankly, an incredible amount of tools are published for someone's PhD or Master
 
 I really feel that only certain tools need to be used for the issues of at least basic reproducibility. All in the list seem mature enough and versatile enough to accomplish most basic tasks or workflows. The emphasis is on open source tools and tools available on github or similar. TRF, USEARCH, and other tools are great, but not having access to the source on version control (TANTAN) becomes a big deal when something goes wrong. 
 
+## General Purpose
+
+Bedtools
+
 ## SAM/BAM 
 
 Samtools <br>
